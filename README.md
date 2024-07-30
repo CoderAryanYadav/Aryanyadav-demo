@@ -1,2 +1,4 @@
 # Aryanyadav-demo
-It is a Aryanyadav Clone
+This is my first git Repository.
+Author - Aryan Yadav
+
